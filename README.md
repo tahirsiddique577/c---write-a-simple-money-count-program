@@ -20,8 +20,8 @@ where C1, C2 and C3 represent different currency bank notes.
       C1 [“gbp”]– displays the C1 amount in Pound Sterling along with the date and current exchange rate between the input currency and pounds.
   
 A few guidelines:
-     This question involves operator overloading and needs to be
-    accomplished using classes.
+
+     This question involves operator overloading and needs to be accomplished using classes.
 
      Your main function must be as small as possible. This implies you must
     use class constructors and class functions to accomplish everything.
