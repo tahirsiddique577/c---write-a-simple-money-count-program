@@ -34,3 +34,5 @@ A few guidelines:
     the Conversion_Rate class class to provide the exchange rates for the
     given day. You are to apply the concept of friend functions/ friend
     classes (as you need) to allow this class to share its information.
+# Solution : 
+        Code file is attached (main.cpp)
