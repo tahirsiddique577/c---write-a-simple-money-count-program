@@ -1,4 +1,4 @@
-# cplusplus-write-a-simple-money-count-program
+# Problem Statement : Write a simple money counting program (Solved)
 
 Imagine you are on a trip around Europe and have collected currencies from
 the different countries that you have travelled.
