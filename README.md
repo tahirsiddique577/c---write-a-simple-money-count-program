@@ -1,4 +1,4 @@
-# c---write-a-simple-money-count-program
+# cplusplus-write-a-simple-money-count-program
 
 Imagine you are on a trip around Europe and have collected currencies from
 the different countries that you have travelled.
